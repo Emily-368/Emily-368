@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=emily-368&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F213927226%3Fv%3D4" alt="emily-368 hero visual" />
 </p>
 
-<p align="center"><b>Emily</b> · Backend or systems engineer<br/><sub>Building in public on GitHub.</sub></p>
+<p align="center"><b>Emily</b> · Mechanical Engineer learning new things<br/><sub>Building in public on GitHub.</sub></p>
 
 <p align="center"><a href="https://github.com/emily-368">GitHub</a></p>
 
